@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kimlaa21/AndroidStudioProjects/PowerReceiver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home2/kimlaa21/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b097054e1e82e54fc88d430b6536e671/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
